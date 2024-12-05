@@ -72,4 +72,14 @@
     "weather-js": "^2.0.0",
     "ytdl-core": "^4.11.2"
   }
+  {
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
